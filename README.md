@@ -1,6 +1,6 @@
 # Quantum Random Number Generator (QRNG)
 
-**Generation of truly random numbers powered by quantum computing**
+**Generation of truly random numbers powered by quantum computing (and pennylane)**
 
 ## How it works
 
